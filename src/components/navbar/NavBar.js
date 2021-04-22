@@ -24,9 +24,9 @@ export function NavBar() {
                     Productos
                     </a>
                     <div className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a className="dropdown-item" href="/#">Anteojos de sol</a>
-                    <a className="dropdown-item" href="/#">Anteojos Vintage</a>
-                    <a className="dropdown-item" href="/#">Armazones</a>
+                    <a className="dropdown-item" href="/#">Computadoras</a>
+                    <a className="dropdown-item" href="/#">Notebooks</a>
+                    <a className="dropdown-item" href="/#">Tablets</a>
                     </div>
                 </li>
                 </ul>
